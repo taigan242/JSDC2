@@ -1,2 +1,5 @@
 /* but muncher */
-window.alert("this is boring");
+var x = 12;
+var y = 2;
+var sum = y + x;
+console.log(sum);
